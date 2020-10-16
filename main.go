@@ -1,6 +1,6 @@
 package main
 
-import "vssh/cmd"
+import "vssh/packages/cmd"
 
 func main() {
 	cmd.Execute()
